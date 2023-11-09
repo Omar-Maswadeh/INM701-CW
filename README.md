@@ -1,2 +1,2 @@
-# INM701-CW
-Introduction to AI coursework
+# Introduction to AI coursework
+
