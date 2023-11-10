@@ -1,6 +1,6 @@
 # Introduction to AI coursework
 
-#Problem to be solved:
+# Problem to be solved:
 The main purpose of this project was to train a model that would detect if subject has a tumor or
 not base on brain MRI scan.
 This Brain Scan tumor Classification is a machine learning project.
