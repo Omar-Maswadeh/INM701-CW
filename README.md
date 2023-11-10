@@ -1,4 +1,4 @@
-# Introduction to AI coursework
+# Introduction to AI (INM701) coursework
 
 # Problem to be solved:
 The main purpose of this project was to train a model that would detect if subject has a tumor or
